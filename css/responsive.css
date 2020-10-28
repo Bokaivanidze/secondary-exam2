@@ -1,0 +1,22 @@
+@media (max-width: 830px) {
+    .bg-image,
+    .wraper-childe,
+    .photo,
+    .photo3,
+    .box1-1,
+    .section5,
+    .footer1,
+    .second,
+    .third,
+    .box1,
+    .banner,
+    .section3 {
+    flex-direction: column; 
+    align-items: center; 
+}
+@media (max-width: 830px) {
+    .nav,
+    .second,
+    .section3 {
+        display: none;
+}

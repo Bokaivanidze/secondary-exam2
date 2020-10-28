@@ -1,0 +1,290 @@
+
+.header-container{
+    margin: 0;
+    padding: 0;;
+}
+.bg-image{
+    background-image: url(../image/mohamed-ajufaan-GFcWwwGNu_w-unsplash.png);
+    background-repeat: no-repeat;
+    height: 370px;    
+    width: 100%;
+    background-size: 100%;
+    opacity: 0.8;
+    filter:drop-shadow(8px 8px 10px gray);
+    margin: 0 auto;
+    position: relative;
+}
+.fisrst-title {
+    font-size: 20px;
+    color:white;
+    padding: 30px 139px;
+    font-weight: bold;
+    width: 550px;
+}
+.nav {    
+    width: 100%;
+    margin-left: 400px;
+}
+.nav-ul {
+    display: flex;
+}
+.nav-a {
+    color:white;
+    margin: 25px; 
+    
+}
+.nav-a:hover {
+    color:#5863F8;
+ }
+.wraper-childe {    
+    display: flex;    
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+.about-us {
+    font-size: 42px;
+    color: white;
+    padding: 60px 120px ;
+    font-weight: bold;
+}
+.home, .about {
+    font-size: 14px;
+    color: white;
+}
+.box {
+    display: flex;    
+    justify-content: baseline;
+    margin: 0 130px;
+}
+.divider {
+    height: 19px;
+    width: 1px;
+    background-color:white;
+    margin: 0 16px;
+}
+.paragraph {
+    margin: 50px 130px;
+}
+.aboutus1{
+    color: #5863F8;
+    font-size: 14px;
+    font-weight: bold;
+}
+.text{
+    color: #000000;
+    font-size: 42px;
+    font-weight: bold;
+    width: 334px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.text-p{
+    color: #000000;
+    font-size:16px;
+    width: 444px;
+}
+.btn{
+    background-color: #5863F8;
+    border: none;
+    color: #ffffff;
+    width: 184px;
+    height: 50px;
+    margin-top: 24px;
+    
+}
+.second {
+    display: flex;    
+    align-items: center;
+    width: 100%;   
+}
+
+.photo{
+    margin: 30px 0px 0 100px;
+    align-items: unset;
+}
+.photo3 {   
+    margin: 10px 0px;    
+}
+.image3 {
+    width: 525px;
+}
+.third {
+    width: 100%;
+}
+.background {
+    background-image: url(../image/backgraund2.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 612px;
+    background-size: 100%;
+    margin: 0 auto;      
+    margin-top: 90px;
+    position: relative;
+    filter:contrast(90%);
+}
+.paragraph1{
+    padding: 100px;
+    width: 100%;
+}
+.aboutus3{
+    font-size: 20px;
+    color: #5863F8;
+    font-weight: bold;  
+}
+.text3{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    width: 300px;
+}
+.box1 {
+    display: flex;
+    justify-content: space-evenly;    
+    width: 100%;       
+}
+.box1-1 {
+    width: 260px;
+    height: 260px;
+    background-color: whitesmoke;
+}
+.circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: #5863F8;
+    margin: 30px 100px;
+}
+.hotellogo {
+    margin: 10px 12px;
+}
+.boxtext {
+    font-size: 18px;
+    font-weight: bolder;
+    width: 150px;
+    margin: 0px 60px;
+}
+.boxt {
+    color: #707070;
+    margin: 15px 30px;
+    width: 221px;
+}
+.sec4p{
+    color: #5863F8;
+    font-size: 14px;
+    width: 104px;
+    font-weight: bolder;
+}
+.coment{
+    color: #000000;
+    font-size: 14px;
+    width: 352px;
+    padding-top: 15px;
+}
+.profili {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+.name{
+    color: #000000;
+    font-size: 18px;
+    padding-left: 15px;
+    margin-right: 200px;
+    font-weight: bolder;
+}
+.img3{
+    margin-left: 300px;
+}
+.text4{
+    width: 336px;
+    color: #000000;
+    font-size: 42px;
+    font-weight: bold;
+}
+.section5 {
+    margin: 80px 0;
+    width: 100%;
+}
+.colage {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 100%;
+    margin-right: 10px;    
+}
+.PHOTOS{
+    color: #5863F8;
+    font-size: 14px;
+    font-weight: bold;
+    width: 58px;
+    padding-left: 130px;
+}
+.PHOTO-colage{
+    color: black;
+    width: 565px;
+    font-weight: bold;
+    font-size: 42px;
+    padding-left: 130px;
+}
+.blackbox{
+    background-color: #121212;
+    background-repeat: no-repeat;
+    height: 355px;
+    margin: 0 auto;
+    width: 100%;   
+    position: relative;
+}
+.footersat {
+    font-size: 30px;
+    color: white;
+    font-weight: bold;    
+}
+footer {
+    background-color: #121212;
+    background-repeat: no-repeat;
+    height: 355px;
+    margin: 0 auto;
+    width: 100%;   
+    position: relative;
+}
+.footersat {
+    font-size: 30px;
+    color: white;
+    font-weight: bold;    
+}
+.footertext {
+    color: #B1B1B1;
+    font-size: 14px;
+    width: 280px; 
+    margin: 25px 0;   
+}
+.footer1 {
+    display: flex;
+    justify-content: space-evenly;    
+    width: 100%;     
+}
+.footerbox {
+    margin: 90px 0px 0 0px ;
+}
+.footnav {
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px; 
+}
+.footnavtext {
+    color: white;
+    font-weight: bold;
+}
+.footnavtext2{
+    color:#5863F8;
+    margin-top: 15px;
+}
+.footnavtext3{
+    color:white;
+    margin-top: 25px;
+    font-weight: bold;
+}
